@@ -14,4 +14,5 @@ It consists of the following structure:
   * stat - Contains some generated statistics of the prediction by the network after transformations to the images are made.
 * experiment2 - All relevant files for experiment 2. Similar structure to experiment 1.
 * images - Contains some images and IPE .pdf files used in the [report](https://www.overleaf.com/read/srcdbgcbvtxj).
+* report.pdf - Report documenting the entire project.
 * topology_net.ipynb - The Google Colab file that was used to train the networks. Only runs inside [Google Colab](https://colab.research.google.com/drive/1s9QMZ7ZO9BsIzrQOMpGsrR_oiqEfoFn3).
